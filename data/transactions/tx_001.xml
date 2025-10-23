@@ -1,0 +1,11 @@
+<Pacs008>
+  <TxId>a594054c-3990-4c3f-af0c-2185982b1696</TxId>
+  <Sender>GB31TOIR71305087118317</Sender>
+  <Receiver>GB70FMHN82192022467322</Receiver>
+  <Amount>4070.29</Amount>
+  <Currency>USD</Currency>
+  <Timestamp>2016-06-20T20:16:06</Timestamp>
+  <Country>MH</Country>
+  <Purpose>gift</Purpose>
+  <Channel>atm</Channel>
+</Pacs008>

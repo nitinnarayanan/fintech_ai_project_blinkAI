@@ -1,0 +1,11 @@
+<Pacs008>
+  <TxId>dd45e935-476f-4157-9fa6-36b22585d288</TxId>
+  <Sender>GB72AUYD91391975425805</Sender>
+  <Receiver>GB62YBVL68408941287011</Receiver>
+  <Amount>3572.39</Amount>
+  <Currency>GBP</Currency>
+  <Timestamp>1984-11-02T03:10:26</Timestamp>
+  <Country>SD</Country>
+  <Purpose>loan</Purpose>
+  <Channel>branch</Channel>
+</Pacs008>

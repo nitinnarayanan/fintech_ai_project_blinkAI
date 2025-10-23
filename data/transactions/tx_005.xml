@@ -1,0 +1,11 @@
+<Pacs008>
+  <TxId>54dd0b1c-ee6d-4cf9-8b45-2ae4750e27f0</TxId>
+  <Sender>GB96IMMP05092048889673</Sender>
+  <Receiver>GB61VTHE50417043660828</Receiver>
+  <Amount>1940.98</Amount>
+  <Currency>GBP</Currency>
+  <Timestamp>2022-01-22T17:48:50</Timestamp>
+  <Country>PL</Country>
+  <Purpose>invoice payment</Purpose>
+  <Channel>mobile</Channel>
+</Pacs008>

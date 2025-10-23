@@ -1,0 +1,11 @@
+<Pacs008>
+  <TxId>833049e7-a475-4a3f-aeee-2a730dd4b876</TxId>
+  <Sender>GB14PFWD24492589445505</Sender>
+  <Receiver>GB79GXRH58078425773699</Receiver>
+  <Amount>1889.13</Amount>
+  <Currency>USD</Currency>
+  <Timestamp>1985-03-24T15:56:08</Timestamp>
+  <Country>MD</Country>
+  <Purpose>refund</Purpose>
+  <Channel>atm</Channel>
+</Pacs008>

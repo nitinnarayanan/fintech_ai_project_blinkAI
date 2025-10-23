@@ -1,0 +1,11 @@
+<Pacs008>
+  <TxId>15ac6605-2105-4f57-8b64-148e731b4212</TxId>
+  <Sender>GB73NLXP04224909306022</Sender>
+  <Receiver>GB24POAI49426781856399</Receiver>
+  <Amount>842.85</Amount>
+  <Currency>GBP</Currency>
+  <Timestamp>1997-01-04T07:27:05</Timestamp>
+  <Country>GT</Country>
+  <Purpose>salary</Purpose>
+  <Channel>branch</Channel>
+</Pacs008>
