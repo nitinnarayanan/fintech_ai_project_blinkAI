@@ -1,0 +1,1 @@
+# fintech_ai_project_blinkAI
